@@ -1,5 +1,5 @@
 <?php
-namespace ApolloIo\Config;
+namespace ApolloIo\ApiClient\Config;
 
 final class Settings
 {

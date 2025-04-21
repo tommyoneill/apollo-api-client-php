@@ -1,5 +1,5 @@
 <?php
-namespace ApolloIo\Http;
+namespace ApolloIo\ApiClient\Http;
 
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;

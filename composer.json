@@ -1,5 +1,5 @@
 {
-    "name": "tommyoneill/apollo-php",
+    "name": "tommyoneill/apollo-api-client-php",
     "description": "PHP client for the Apollo.io API",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     },
     "autoload": {
       "psr-4": {
-        "ApolloIo\\": "src/"
+        "ApolloIo\\ApiClient\\": "src/"
       }
     },
     "require-dev": {
@@ -19,4 +19,3 @@
       "friendsofphp/php-cs-fixer": "^3.0"
     }
   }
-  

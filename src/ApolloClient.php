@@ -1,5 +1,5 @@
 <?php
-namespace ApolloIo;
+namespace ApolloIo\ApiClient;
 
 use ApolloIo\Config\Settings;
 use ApolloIo\Http\ClientInterface;

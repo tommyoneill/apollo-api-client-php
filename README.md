@@ -1,7 +1,7 @@
 # Apollo.io PHP Client
 
 [![Packagist Version](https://img.shields.io/packagist/v/your-vendor/apollo-php.svg)](https://packagist.org/packages/your-vendor/apollo-php)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-vendor/apollo-php/phpunit.yml?branch=main)](https://github.com/your-vendor/apollo-php/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/tommyoneill/apollo-api-client-php/phpunit.yml?branch=main)](https://github.com/tommyoneill/apollo-api-client-php/actions)
 [![License](https://img.shields.io/packagist/l/your-vendor/apollo-php.svg)](LICENSE)
 
 A framework‑agnostic, PSR‑compliant PHP SDK for the [Apollo.io REST API](https://docs.apollo.io/docs/api-overview).  
@@ -12,7 +12,7 @@ Drop it into any modern PHP project (Laravel, Slim, Symfony, or plain PHP) and s
 Install via Composer:
 
 ```bash
-composer require your-vendor/apollo-php
+composer tommyoneill/apollo-api-client-php
 ```
 
 Minimum PHP version: **8.1**.
@@ -158,4 +158,4 @@ Please follow the [PSR‑12 coding standard](https://www.php-fig.org/psr/psr-12/
 
 MIT © [Tommy O'Neill]
 
-Built with ❤️ for the PHP community. Happy coding!  
+Built with ❤️ for the PHP community. Happy coding!
