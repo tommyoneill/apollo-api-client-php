@@ -17,6 +17,14 @@
             "Tommyoneill\\ApolloApiClientPhp\\": "src/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/tommyoneill/apollo-api-client-php"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Tom ONeill",
