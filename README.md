@@ -169,7 +169,7 @@ Please follow the [PSR‑12 coding standard](https://www.php-fig.org/psr/psr-12/
 
 ## 📄 License
 
-MIT © [Your Name / Your Organization]
+MIT © [Tommy O'Neill]
 
 ---
 
