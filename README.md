@@ -7,8 +7,6 @@
 A framework‑agnostic, PSR‑compliant PHP SDK for the [Apollo.io REST API](https://docs.apollo.io/docs/api-overview).  
 Drop it into any modern PHP project (Laravel, Slim, Symfony, or plain PHP) and start searching people & companies in minutes.
 
----
-
 ## 📦 Installation
 
 Install via Composer:
@@ -24,8 +22,6 @@ This library depends on:
 - **PSR‑18** HTTP Client (e.g. `guzzlehttp/guzzle`)
 - **PSR‑17** HTTP Factories (e.g. `nyholm/psr7`)
 - **PSR‑3** Logger (optional)
-
----
 
 ## 🔧 Configuration
 
@@ -56,8 +52,6 @@ $http     = new GuzzleClient($guzzle);
 // 4. Apollo client
 $apollo   = new ApolloClient($settings, $http, $psr17, $psr17);
 ```
-
----
 
 ## 🚀 Usage
 
@@ -101,8 +95,6 @@ print_r($person);
 print_r($company);
 ```
 
----
-
 ## 🛠️ Laravel Integration
 
 1. **Publish** a config file at `config/apollo.php`:
@@ -136,7 +128,6 @@ print_r($company);
    }
    ```
 
----
 
 ## 🧪 Testing
 
@@ -149,8 +140,6 @@ vendor/bin/phpunit
 
 - Tests mock the PSR‑18 client to simulate API responses.
 - Ensure coverage for success, error handling, and edge cases.
-
----
 
 ## 💡 Contributing
 
@@ -165,13 +154,8 @@ vendor/bin/phpunit
 
 Please follow the [PSR‑12 coding standard](https://www.php-fig.org/psr/psr-12/) and write tests for new functionality.
 
----
-
 ## 📄 License
 
 MIT © [Tommy O'Neill]
 
----
-
-> Built with ❤️ for the PHP community. Happy coding!  
-```
+Built with ❤️ for the PHP community. Happy coding!  
