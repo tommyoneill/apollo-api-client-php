@@ -12,7 +12,7 @@ Drop it into any modern PHP project (Laravel, Slim, Symfony, or plain PHP) and s
 Install via Composer:
 
 ```bash
-composer tommyoneill/apollo-api-client-php
+composer require tommyoneill/apollo-api-client-php
 ```
 
 Minimum PHP version: **8.1**.
