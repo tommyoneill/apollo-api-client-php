@@ -1,6 +1,6 @@
 {
     "name": "tommyoneill/apollo-api-client-php",
-    "description": "A php library to interface the Apollo.io REST API",
+    "description": "A php library to interface the Apollo.io REST API. Get your leads!",
     "type": "library",
     "require": {
         "php": "^8.2",
