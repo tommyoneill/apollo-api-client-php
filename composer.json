@@ -1,7 +1,7 @@
 {
     "name": "tommyoneill/apollo-api-client-php",
     "description": "A php library to interface the Apollo.io REST API. Get your leads!",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "type": "library",
     "require": {
         "php": "^8.2",
