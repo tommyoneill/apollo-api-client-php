@@ -1,10 +1,10 @@
 <?php
 namespace ApolloIo\ApiClient;
 
-use ApolloIo\Config\Settings;
-use ApolloIo\Http\ClientInterface;
-use ApolloIo\Endpoints\PeopleEndpoint;
-use ApolloIo\Endpoints\CompaniesEndpoint;
+use ApolloIo\ApiClient\Config\Settings;
+use ApolloIo\ApiClient\Http\ClientInterface;
+use ApolloIo\ApiClient\Endpoints\PeopleEndpoint;
+use ApolloIo\ApiClient\Endpoints\CompaniesEndpoint;
 
 final class ApolloClient
 {
